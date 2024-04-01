@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
+### 1. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.1.08 ~ 2024.1.24  
 >  
