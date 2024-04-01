@@ -9,7 +9,7 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rjsgkr00470@gmail.com
+- 이메일: rjsgkr0047@gmail.com
 - 블로그: 
 - 깃헙: https://github.com/leehakgun
 
