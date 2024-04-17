@@ -36,7 +36,10 @@
 >MySQL / Spring Boot / FastAPI  / React-Native / HTML/CSS I
 >Script / JQuery / Ajax / ChatGPT / LSTM / 카카오API / papago API
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/leehakgun/botbuddies_owner)
+> (https://github.com/leehakgun/mealjoy_owner)
+> (https://github.com/Parkjinew/mealjoy_user)
+> (https://github.com/Parkjinew/botbuddies_user) 참고
 
 ---
 
