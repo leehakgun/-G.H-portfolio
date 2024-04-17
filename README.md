@@ -55,6 +55,7 @@
   - HTML, CSS, JavaScript
   - AWS 서비스 배포
 </br>
+
 ### :pushpin:수상내역
 :trophy:스마트인재개발원  핵심프로젝트(무명 예술가들을 위한 C2C 플랫폼) - 최우수상
 </br>
