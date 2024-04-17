@@ -39,10 +39,10 @@
 > API:
 > Geolocation / 카카오 / Portone / OpenAI / FastAPI
 >  
->[프로젝트 상세 설명](https://github.com/leehakgun/botbuddies_owner)
-> (https://github.com/leehakgun/mealjoy_owner)
-> (https://github.com/Parkjinew/mealjoy_user)
-> (https://github.com/Parkjinew/botbuddies_user) 참고
+>[프로젝트 상세 설명1](https://github.com/leehakgun/botbuddies_owner)
+> [프로젝트 상세 설명2](https://github.com/leehakgun/mealjoy_owner)
+> [프로젝트 상세 설명3](https://github.com/Parkjinew/mealjoy_user)
+> [프로젝트 상세 설명4](https://github.com/Parkjinew/botbuddies_user) 참고
 
 ---
 
