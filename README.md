@@ -42,14 +42,9 @@
 > [프로젝트 상세 설명 (4)](https://github.com/Parkjinew/botbuddies_user) 참고
 
 ---
-
-## :pushpin: 자격증
-> 
-
-
 ## :pushpin:교육사항
-### 전북대학교
-  - 사학과 졸업
+### 목포대학교
+  - 전기 및 제어공학과 졸업
 
 ### 스마트인재개발원 언어지능기반 분석서비스모델 개발자과정 참여
 
@@ -60,7 +55,6 @@
   - HTML, CSS, JavaScript
   - AWS 서비스 배포
 </br>
-
 ## :pushpin:수상내역
 :trophy:스마트인재개발원  핵심프로젝트(무명 예술가들을 위한 C2C 플랫폼) - 최우수상
 </br>
