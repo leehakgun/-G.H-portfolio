@@ -12,7 +12,7 @@
 
 </br>
 
-### 기술스택
+### :pushpin: 기술스택
 
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/illhanunjung/Hwado-final)
