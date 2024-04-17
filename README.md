@@ -33,8 +33,10 @@
 >개발 기간: 2024.03.15~ 2024.04.15
 >  
 >기술 스택:  
->MySQL / Spring Boot / FastAPI  / React-Native / HTML/CSS I
->Script / JQuery / Ajax / ChatGPT / LSTM / 카카오API / papago API
+>MySQL / Spring Boot / React-Native / HTML/CSS / Node.js
+>JAVAScript / ChatGPT / LSTM / KoELECTRA / GitHub / AWS
+> API:
+> Geolocation / 카카오 / Portone / OpenAI / FastAPI
 >  
 >[프로젝트 상세 설명](https://github.com/leehakgun/botbuddies_owner)
 > (https://github.com/leehakgun/mealjoy_owner)
