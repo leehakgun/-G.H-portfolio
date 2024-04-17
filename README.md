@@ -35,6 +35,7 @@
 >기술 스택:  
 >MySQL / Spring Boot / React-Native / HTML/CSS / Node.js
 >JAVAScript / ChatGPT / LSTM / KoELECTRA / GitHub / AWS
+> <br>
 > API:
 > Geolocation / 카카오 / Portone / OpenAI / FastAPI
 >  
