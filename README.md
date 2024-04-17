@@ -12,6 +12,8 @@
 
 </br>
 
+### 기술스택
+
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/illhanunjung/Hwado-final)
 >무명 예술가들을 위한 C2C플랫폼 (팀 프로젝트)  
